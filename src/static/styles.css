@@ -87,6 +87,13 @@ section h3 {
   font-weight: 500; /* Added weight for emphasis */
 }
 
+.participants {
+  margin-top: 10px;
+  padding: 10px;
+  border-radius: 4px;
+  background-color: #e3f2fd;
+}
+
 .form-group {
   margin-bottom: 15px;
 }
